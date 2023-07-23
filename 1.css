@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url("./WhatsApp\ Image\ 2023-07-23\ at\ 5.17.01\ PM.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center{
+    margin-right: 245px;
+    background-color: aliceblue;
+    margin-left: 591px;
+    width: 285px;
+    margin-bottom: 410px;
+    margin-top: 204px;
+    height: 314px;
+    border-radius: 34px;
+    padding:25px;
+}
+h1{
+    text-align: center;
+}
+input{
+    border: none;
+    border-bottom: 2px solid grey;
+    margin-left: 42px;
+    margin-top: 35px;
+    width:209px;
+}
+.mybtn{
+    width: 209px;
+    background-color: blueviolet;
+    padding: 8px;
+    margin-top: 9px;
+    border: 1px solid blueviolet;
+    border-radius: 37px;
+    font-size: 15px;
+    color: white;
+    cursor: pointer;
+}
+.mybtn:hover{
+    background-color: crimson;
+    color: black;
+    width:200px;
+}
+text{
+    text-align: center;
+}
+p{
+    margin-left: 43px;
+    margin-top: 18px;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: cornflowerblue;
+}
+input:focus {
+    outline:none;
+}
